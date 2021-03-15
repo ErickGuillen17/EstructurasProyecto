@@ -68,7 +68,7 @@ public class Menu {
                 
                 case 6:
 
-                    //Se Utiliza el case 11 cuando se finaliza el programa.  
+                    //Se Utiliza el case 6 cuando se finaliza el programa.  
                     //La variable global salir cambia a true, y termina el while loop.  
 
                     System.out.println("El Programa ha terminado.");
