@@ -24,7 +24,7 @@ public class Menu {
         
         while (salir == false){
         
-            //Menú principal con 11 opciones que permite al administrador del programa ejecutar todas las tareas disponibles. 
+            //Menú principal con 6 opciones que permite al administrador del programa ejecutar todas las tareas disponibles. 
             
             String menu = "\n"+
                           "+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-\n" +
